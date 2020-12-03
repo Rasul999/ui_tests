@@ -4,7 +4,7 @@
 
 Запуск тестов: npm run test
 
-Тесты: cypress/integration/login.spec.js
+Тесты: cypress/integration/examples/login.spec.js
 - LoginCorrectUsernameAndPassword
 - LoginWithIncorrectPassword
 
