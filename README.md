@@ -4,6 +4,10 @@
 
 Запуск тестов: npm run test
 
+Тесты: cypress/integration/login.spec.js
+- LoginCorrectUsernameAndPassword
+- LoginWithIncorrectPassword
+
 !PS. При отправке запроса на логин с корректыми данными, браузер блокирует запрос и возвращает ошибку:
 ```
 Mixed Content: The page at 'https://radar.wifi.ru/__/#/tests/integration/examples/login.spec.js' 
