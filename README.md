@@ -1,4 +1,4 @@
-Обект тестирования: https://radar.wifi.ru/
+Объект тестирования: https://radar.wifi.ru/
 
 Установка окружения: npm install
 
